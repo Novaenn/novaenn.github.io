@@ -1,0 +1,80 @@
+baseurl      = "https://novaenn.github.io"
+title        = "Samuele Bella"
+languageCode = "en-us"
+theme        = "hello-friend-ng"
+paginate     = 10
+
+enableRobotsTXT = true
+enableEmoji     = true
+disableRSS      = true
+
+[taxonomies]
+  tag      = "tags"
+  category = "categories"
+  series   = "series"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Subtitle for home
+  homeSubtitle = "CS Student doing random stuff 💻"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+
+  # Metadata mostly used in document's head
+  description = "Samuele Bella's homepage"
+  keywords = "homepage, novaen"
+  images = [""]
+
+  # Default theme
+  defaultTheme = "dark"
+
+  [params.logo]
+    logoText = "cd home/"
+    logoHomeLink = "/"
+    logoCursorColor = "#00ff00"
+
+  [params.portrait]
+    path     = "/img/avatar.png"
+    alt      = "Portrait"
+    maxWidth = "218px"
+
+  [[params.social]]
+    name = "instagram"
+    url = "https://www.instagram.com/samuelebella/"
+    weight = 40
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/novaenn/"
+    weight = 40
+
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/samuele-bella-806677225/"
+    weight = 40
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:samuele.bella@hotmail.it"
+
+[languages]
+  [languages.en]
+    title = "Samuele Bella"
+    subtitle = ""
+    weight = 1
+    keywords = "learning, tech, apps, cs"
+    copyright = "Samuele Bella"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "about"
+    url        = "/about"
