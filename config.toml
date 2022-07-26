@@ -78,3 +78,8 @@ disableRSS      = true
     identifier = "about"
     name       = "about"
     url        = "/about"
+
+  [[menu.main]]
+    identifier = "skills"
+    name       = "skills"
+    url        = "/skills"
