@@ -37,7 +37,7 @@ disableRSS      = true
   defaultTheme = "dark"
 
   [params.logo]
-    logoText = "cd home/"
+    logoText = "cd /home"
     logoHomeLink = "/"
     logoCursorColor = "#00ff00"
 
