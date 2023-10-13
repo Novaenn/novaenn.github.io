@@ -65,19 +65,31 @@ disableRSS      = true
     name = "email"
     url  = "mailto:samuele.bella@hotmail.it"
 
+  [params.footer]
+    trademark = "©"
+    author = "Samuele Bella"
+    copyright = true
+    rss = "posts/index.xml"
+    
 [languages]
   [languages.en]
     title = "Samuele Bella"
-    subtitle = ""
     weight = 1
-    keywords = "learning, tech, apps, cs"
     copyright = "Samuele Bella"
+    [languages.en.params]
+      subtitle = ""
+      keywords = "learning, tech, apps, cs"
 
 [menu]
   [[menu.main]]
     identifier = "about"
     name       = "about"
     url        = "/about"
+
+  [[menu.main]]
+  identifier = "blog"
+  name       = "blog"
+  url        = "/blog"
 
   [[menu.main]]
     identifier = "skills"
