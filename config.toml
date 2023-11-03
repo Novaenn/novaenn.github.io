@@ -26,7 +26,7 @@ disableRSS      = false
   disableReadOtherPosts = false
 
   # Enable sharing buttons, if you like
-  enableSharingButtons = true
+  enableSharingButtons = false
 
   # Metadata mostly used in document's head
   description = "Samuele Bella's homepage"
