@@ -6,7 +6,7 @@ paginate     = 10
 
 enableRobotsTXT = true
 enableEmoji     = true
-disableRSS      = true
+disableRSS      = false
 
 [taxonomies]
   tag      = "tags"
@@ -87,9 +87,9 @@ disableRSS      = true
     url        = "/about"
 
   [[menu.main]]
-  identifier = "blog"
-  name       = "blog"
-  url        = "/blog"
+  identifier = "posts"
+  name       = "posts"
+  url        = "/posts"
 
   [[menu.main]]
     identifier = "skills"
