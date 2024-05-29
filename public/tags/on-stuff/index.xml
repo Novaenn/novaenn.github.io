@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>On Stuff on Samuele Bella</title>
+    <link>http://localhost:1313/tags/on-stuff/</link>
+    <description>Recent content in On Stuff on Samuele Bella</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Samuele Bella</copyright>
+    <lastBuildDate>Mon, 23 Jan 2023 20:46:31 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/on-stuff/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On studying and the role of educational institutions</title>
+      <link>http://localhost:1313/notes/on-studying/</link>
+      <pubDate>Mon, 23 Jan 2023 20:46:31 +0100</pubDate>
+      <guid>http://localhost:1313/notes/on-studying/</guid>
+      <description>This post will talk about my thoughts concerning knowledge, the act of studying, and the role of educational institutions in this topic.&#xA;What caused the rambling Since the third year of High School, I started thinking about the relationship between studying, schools, and professors. Are schools and universities necessary to gain knowledge, or is studying also an individual act? What about professors? What&amp;rsquo;s their role? Is their job only to teach their assigned subject or do they serve a broader and more noble purpose?</description>
+    </item>
+  </channel>
+</rss>

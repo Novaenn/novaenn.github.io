@@ -31,4 +31,6 @@ I also started reading some research papers regarding the field of system vulner
 
 • [I am obsessed by books](https://www.goodreads.com/user/show/84456037-samuele) \
 • [I enjoy playing videogames](https://steamcommunity.com/id/Novaenn)
+• [I listen 24/7 to music](https://open.spotify.com/user/iaxhm19qj0sjg1wovxl3q0mia)
+
 

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samuele Bella</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Samuele Bella</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Samuele Bella</copyright>
+    <lastBuildDate>Mon, 23 Jan 2023 20:46:31 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On studying and the role of educational institutions</title>
+      <link>http://localhost:1313/notes/on-studying/</link>
+      <pubDate>Mon, 23 Jan 2023 20:46:31 +0100</pubDate>
+      <guid>http://localhost:1313/notes/on-studying/</guid>
+      <description>This post will talk about my thoughts concerning knowledge, the act of studying, and the role of educational institutions in this topic.&#xA;What caused the rambling Since the third year of High School, I started thinking about the relationship between studying, schools, and professors. Are schools and universities necessary to gain knowledge, or is studying also an individual act? What about professors? What&amp;rsquo;s their role? Is their job only to teach their assigned subject or do they serve a broader and more noble purpose?</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 14 Jul 2022 08:26:23 +0200</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Hey, welcome to my website 👋&#xA;I&amp;rsquo;m Samuele Bella, a Computer Science student at Sapienza Università di Roma.&#xA;If you&amp;rsquo;re interested in working with me, send me an email or download my resume</description>
+    </item>
+    <item>
+      <title>Skills 👨‍💻</title>
+      <link>http://localhost:1313/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/skills/</guid>
+      <description>Tools 🔧 I use on a daily basis: • I use GNU/Linux as my main OS • I use bash or zsh as my shells • vim for text editing • git for version control • Various front-end frameworks such as Hugo (The framework that I used to build this website) • LaTeX / Markdown / toml / JSON&#xA;Technologies 💻 I mainly choose between Python, C or Java as my main programming languages, even though I dabbled in MIPS assembly and C++.</description>
+    </item>
+    <item>
+      <title>Uses</title>
+      <link>http://localhost:1313/uses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/uses/</guid>
+      <description>On this page I&amp;rsquo;ll show the software I use daily during University and in my life in general.</description>
+    </item>
+  </channel>
+</rss>

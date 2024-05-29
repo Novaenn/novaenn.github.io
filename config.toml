@@ -1,7 +1,7 @@
 baseurl      = "https://novaenn.github.io"
 title        = "Samuele Bella"
 languageCode = "en-us"
-theme        = "hello-friend-ng"
+theme        = ["hello-friend-ng", "hugo-shortcode-gallery"]
 paginate     = 10
 
 enableRobotsTXT = true
@@ -87,11 +87,16 @@ disableRSS      = false
     url        = "/about"
 
   [[menu.main]]
-  identifier = "posts"
-  name       = "posts"
-  url        = "/posts"
+  identifier = "notes"
+  name       = "notes"
+  url        = "/notes"
 
   [[menu.main]]
     identifier = "skills"
     name       = "skills"
     url        = "/skills"
+
+  [[menu.main]]
+    identifier = "uses"
+    name       = "uses"
+    url        = "/uses"

@@ -10,7 +10,7 @@ tags: ["on stuff"]
 
 This post will talk about my thoughts concerning knowledge, the act of studying, and the role of educational institutions in this topic.
 
-<!--more-->
+---
 
 {{< image src="peanuts-library-card.png" alt="Peanuts" position="center" >}}
 
@@ -51,20 +51,20 @@ I talk more about this weird concept in my post ["On liking a lot of different t
 When I was younger, however, I had conflicting feelings about these "serendipitous" interests and dismissed them as a waste of time, something that had the risk of distancing me from my future goals and ambitions. This is, unfortunately, a common thought among people my age.
 Studying or, more precisely, gaining more knowledge, is seen as something superfluous, a waste of time, something that must necessarily be linked to your future job and be useful in order to find the job of your dreams (or whatever).
 
-## Small thoughts on "Chaffeur Knowledge"
+## Small thoughts on "Chauffeur Knowledge"
 
-I just read a [great essay](https://perell.com/essay/how-philosophers-think/) which introduced to me Charlie Munger's distinction between "real knowledge" and "chaffeur knowledge".
-Real knowledge is when you take an idea and you embrace it, let it become a part of yourself, decompose it into its atoms while Chaffeur knowledge is just memorizing it and repeating it verbatim.
+I just read a [great essay](https://perell.com/essay/how-philosophers-think/) which introduced to me Charlie Munger's distinction between "real knowledge" and "chauffeur knowledge".
+Real knowledge is when you take an idea and you embrace it, let it become a part of yourself, decompose it into its atoms while Chauffeur knowledge is just memorizing it and repeating it verbatim.
 There's a really interesting quote in that essay that reads:
 
 > The more pressure people feel to have an opinion on every subject, the more chauffeur knowledge there will be. In that state of intellectual insecurity, people rush to judgment. When they do, they abandon the philosophical mode of thinking. In turn, they become slaves to fashionable ideas and blind to unconscious assumptions.
 
-I admit it, sometimes I fell into the trap of chaffeur thinking but I am really trying hard to overcome it. I prefer having a clear understanding of a few topics than little to no understanding of a whole variety of topics.
+I admit it, sometimes I fell into the trap of chauffeur thinking but I am really trying hard to overcome it. I prefer having a clear understanding of a few topics than little to no understanding of a whole variety of topics.
 
 ## Conclusion
 
 To conclude, I think that studying isn't something that must be correlated to your precise field of study, and I don't think that it must be necessarily useful for your job.
 Gaining knowledge for the sake of it is useful not only because it's fun, but also because it broadens your views and gives you an enormous sense of accomplishment.
-However, you'll feel accomplished only if you really tackle the idea at hand, when you are sure to understand it completely. Don't be content with just Chaffeur knowledge.
+However, you'll feel accomplished only if you really tackle the idea at hand, when you are sure to understand it completely. Don't be content with just Chauffeur knowledge.
 
 Sapere aude.
