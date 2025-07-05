@@ -126,3 +126,7 @@ url = "projects/"
 name = "Skills"
 weight = 4
 url = "skills/"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
