@@ -6,36 +6,119 @@
     <description>Recent content on Samuele Bella</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <copyright>Samuele Bella</copyright>
-    <lastBuildDate>Mon, 23 Jan 2023 20:46:31 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>On studying and the role of educational institutions</title>
-      <link>http://localhost:1313/notes/on-studying/</link>
-      <pubDate>Mon, 23 Jan 2023 20:46:31 +0100</pubDate>
-      <guid>http://localhost:1313/notes/on-studying/</guid>
-      <description>This post will talk about my thoughts concerning knowledge, the act of studying, and the role of educational institutions in this topic.&#xA;What caused the rambling Since the third year of High School, I started thinking about the relationship between studying, schools, and professors. Are schools and universities necessary to gain knowledge, or is studying also an individual act? What about professors? What&amp;rsquo;s their role? Is their job only to teach their assigned subject or do they serve a broader and more noble purpose?</description>
+      <title>Markdown Syntax Guide</title>
+      <link>http://localhost:1313/posts/markdown-syntax/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>About</title>
+      <title>Rich Content</title>
+      <link>http://localhost:1313/posts/rich-content/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;&#xA;&lt;h2 id=&#34;heading&#34;&gt;&#xA;  &#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#heading&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>More Rich Content</title>
+      <link>http://localhost:1313/posts/more-rich-content/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/more-rich-content/</guid>
+      <description>&lt;p&gt;Hugo Coder provides some Custom Shortcodes.&lt;/p&gt;&#xA;&lt;h2 id=&#34;heading&#34;&gt;&#xA;  &#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#heading&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Math Typesetting</title>
+      <link>http://localhost:1313/posts/math-typesetting/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HTML and CSS only tabs</title>
+      <link>http://localhost:1313/posts/html-and-css-only-tabs/</link>
+      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/html-and-css-only-tabs/</guid>
+      <description>Shortcodes Link to heading The following content:&#xA;{{&amp;lt; tabgroup &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Hello&amp;#34; &amp;gt;}} Hello World! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Goodbye&amp;#34; &amp;gt;}} Goodbye Everybody! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; /tabgroup &amp;gt;}} Will generate:&#xA;Hello Hello World! Goodbye Goodbye Everybody! Right alignment Link to heading You can also align the tabs to the right:&#xA;{{&amp;lt; tabgroup align=&amp;#34;right&amp;#34; &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Hello&amp;#34; &amp;gt;}} Hello World! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Goodbye&amp;#34; &amp;gt;}} Goodbye Everybody!</description>
+    </item>
+    <item>
+      <title>Mermaid JS support</title>
+      <link>http://localhost:1313/posts/mermaid-support/</link>
+      <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/mermaid-support/</guid>
+      <description>If you want to use Mermaid-JS on your website. Provide mermaid as Shortcode in your markdown file.&#xA;flowchart LR A --&gt; B B --&gt; C C --&gt; D D --&gt; B sequenceDiagram participant Alice participant Bob Alice-&gt;&gt;Bob: Hi Bob Bob-&gt;&gt;Alice: Hi Alice Find more example on Mermaid-JS website.</description>
+    </item>
+    <item>
+      <title>Emoji Support</title>
+      <link>http://localhost:1313/posts/emoji-support/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>External Page: Hugo Coder Wiki</title>
+      <link>http://localhost:1313/posts/hugo-coder-wiki/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hugo-coder-wiki/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Placeholder Text</title>
+      <link>http://localhost:1313/posts/placeholder-text/</link>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Autores de Hugo</title>
+      <link>http://localhost:1313/autores/autores-de-hugo/</link>
+      <pubDate>Thu, 05 Jan 2023 01:15:52 +0100</pubDate>
+      <guid>http://localhost:1313/autores/autores-de-hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>temas</title>
+      <link>http://localhost:1313/categoria/temas/</link>
+      <pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate>
+      <guid>http://localhost:1313/categoria/temas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>sintaxe</title>
+      <link>http://localhost:1313/categoria/sintaxe/</link>
+      <pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate>
+      <guid>http://localhost:1313/categoria/sintaxe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Códigos curtos</title>
+      <link>http://localhost:1313/tags/shortcodes/_index.pt-br/</link>
+      <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
+      <guid>http://localhost:1313/tags/shortcodes/_index.pt-br/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About 🔍</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 14 Jul 2022 08:26:23 +0200</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>Hey, welcome to my website 👋&#xA;I&amp;rsquo;m Samuele Bella, a Computer Science student at Sapienza Università di Roma.&#xA;If you&amp;rsquo;re interested in working with me, send me an email or download my resume</description>
+      <description>Hey, welcome to my website 👋&#xA;I&amp;rsquo;m Samuele Bella, a Cybersecurity student at Sapienza Università di Roma.&#xA;If you&amp;rsquo;re interested in working with me, send me an email or download my resume</description>
+    </item>
+    <item>
+      <title>Projects 👷🏻</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>Practical Network Defense Laboratory&#xA;Built, setup and configured a virtual network hosted on proxmox. Implemented a DMZ, a main firewall and an internal firewall with OPNsense. Configured a Road Warrior tunnel with OpenVPN and an internal tunnel with IPSec. Hardened the network by applying various security policies to Management, Control and Data Planes. Setup a Graylog SIEM host, a Greenbone Vulnerability Management System and a Fail2Ban NIPS with an SSH Jail JSFormGrabbing</description>
     </item>
     <item>
       <title>Skills 👨‍💻</title>
       <link>http://localhost:1313/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/skills/</guid>
-      <description>Tools 🔧 I use on a daily basis: • I use GNU/Linux as my main OS • I use bash or zsh as my shells • vim for text editing • git for version control • Various front-end frameworks such as Hugo (The framework that I used to build this website) • LaTeX / Markdown / toml / JSON&#xA;Technologies 💻 I mainly choose between Python, C or Java as my main programming languages, even though I dabbled in MIPS assembly and C++.</description>
-    </item>
-    <item>
-      <title>Uses</title>
-      <link>http://localhost:1313/uses/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/uses/</guid>
-      <description>On this page I&amp;rsquo;ll show the software I use daily during University and in my life in general.</description>
+      <description>Tools 🔧 Link to heading I use on a daily basis: • I use GNU/Linux as my main OS • I use bash or zsh as my shells • vim for text editing • git for version control • Various front-end frameworks such as Hugo (The framework that I used to build this website) • LaTeX / Markdown / toml / JSON&#xA;Technologies 💻 Link to heading I mainly choose between Python, C or Java as my main programming languages, even though I dabbled in MIPS assembly and C++.</description>
     </item>
   </channel>
 </rss>
