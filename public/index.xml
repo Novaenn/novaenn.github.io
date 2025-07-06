@@ -55,7 +55,7 @@
       <link>http://localhost:1313/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/skills/</guid>
-      <description>Tools 🔧 I use on a daily basis: • I use GNU/Linux as my main OS • I use bash or zsh as my shells • vim for text editing • git for version control • Various front-end frameworks such as Hugo (The framework that I used to build this website) • LaTeX / Markdown / toml / JSON&#xA;Technologies 💻 I mainly choose between Python, C or Java as my main programming languages, even though I dabbled in MIPS assembly and C++.</description>
+      <description>Tools 🔧 Link to heading I use on a daily basis: • I use GNU/Linux as my main OS • I use bash or zsh as my shells • vim for text editing • git for version control • Various front-end frameworks such as Hugo (The framework that I used to build this website) • LaTeX / Markdown / toml / JSON&#xA;Technologies 💻 Link to heading I mainly choose between Python, C or Java as my main programming languages, even though I dabbled in MIPS assembly and C++.</description>
     </item>
   </channel>
 </rss>
