@@ -9,7 +9,7 @@ defaultcontentlanguage = "en"
 pagerSize = 20
 
 [markup.highlight]
-style = "github-dark"
+style = "gruvbox"
 
 [params]
     author = "Samuele Bella"
