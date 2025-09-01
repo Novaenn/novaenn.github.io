@@ -39,7 +39,8 @@ which seems a simple Base64 Encoding but it is not. :(
 
 Thankfully, just below we see a "*C Obtain Info for: admin_diary.txt*" which is an unusual filename.
 The file contained the following message:
-```So you got your hands on the flag file already? Impressive.
+```
+So you got your hands on the flag file already? Impressive.
 But lets be clear: the real challenge isnt **finding** the flag  its **earning** it.
 Sure, the encryption tool is in there somewhere...  
 But good luck reversing **that**.
