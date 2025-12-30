@@ -64,7 +64,7 @@ url = "https://www.linkedin.com/in/samuele-bella-806677225/"
 name = "email"
 icon = "fa-solid fa-envelope fa-2x"
 weight = 4
-url  = "mailto:samuele.bella@hotmail.it"
+url  = "mailto:samuele+website@samuelebella.tech"
 
 [[menu.main]]
 name = "About"
