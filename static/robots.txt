@@ -1,4 +1,4 @@
-Sitemap: https://samuelebella.tech/sitemap.xml
+Sitemap: https://samuelebella.com/sitemap.xml
 
 User-agent: *
 Disallow:
