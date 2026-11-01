@@ -1,6 +1,16 @@
 ---
 title: "Projects 👷🏻"
 ---
+**[AgenticHackRomeProject](https://github.com/Novaenn/AgenticHackRomeProject)** · [Live site](https://samuelebella.com/AgenticHackRomeProject)
+
+- Built Insieme, a Telegram assistant for organizing group outings in Rome, during the AgenticHackRome hackathon.
+- Uses an AI agent to extract destinations, dates and times from conversations and create polls.
+
+**[Orbit](https://github.com/Novaenn/Orbit)** · [Live site](https://samuelebella.com/Orbit)
+
+- Built a running dashboard that analyzes activity CSV exports from Intervals.icu.
+- Visualizes training volume, fitness, race predictions and personal bests, keeping imported data in the browser.
+
 Practical Network Defense Laboratory
 - Built, setup and configured a virtual network hosted on proxmox.
 - Implemented a DMZ, a main firewall and an internal firewall with OPNsense.
